@@ -1,1 +1,1 @@
-# SmartBoard-QR-
+# SmartBoard-QR
