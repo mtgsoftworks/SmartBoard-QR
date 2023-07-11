@@ -1,0 +1,24 @@
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\bin\Debug\WİNDOWS QR.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\bin\Debug\WİNDOWS QR.exe
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\bin\Debug\WİNDOWS QR.pdb
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS_QR.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS_QR.Form2.resources
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS_QR.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.exe
+c:\users\hp\documents\visual studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.csproj.CopyComplete
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\Debug\WİNDOWS QR.exe.config
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\Debug\WİNDOWS QR.exe
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\Debug\WİNDOWS QR.pdb
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.csprojAssemblyReference.cache
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS_QR.Form1.resources
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS_QR.Form2.resources
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS_QR.Properties.Resources.resources
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.csproj.GenerateResource.cache
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.csproj.CopyComplete
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.exe
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\Debug\WİNDOWS QR.pdb

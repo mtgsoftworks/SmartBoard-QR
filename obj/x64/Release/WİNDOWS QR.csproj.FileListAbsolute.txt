@@ -1,0 +1,30 @@
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\WİNDOWS QR.exe.config
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\WİNDOWS QR.exe
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\WİNDOWS QR.pdb
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\MessagingToolkit.QRCode.dll
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csprojAssemblyReference.cache
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.AboutBox1.resources
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.Form1.resources
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.Form2.resources
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.Properties.Resources.resources
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csproj.GenerateResource.cache
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csproj.CoreCompileInputs.cache
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csproj.CopyComplete
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.exe
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.pdb
+D:\M.taha\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\SimpleTCP.dll
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\WİNDOWS QR.exe.config
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\WİNDOWS QR.exe
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\WİNDOWS QR.pdb
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\MessagingToolkit.QRCode.dll
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\bin\x64\Release\SimpleTCP.dll
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csprojAssemblyReference.cache
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.AboutBox1.resources
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.Form1.resources
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.Form2.resources
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS_QR.Properties.Resources.resources
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csproj.GenerateResource.cache
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csproj.CoreCompileInputs.cache
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.csproj.CopyComplete
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.exe
+D:\Taha'nın yazılımları\C#\WİNDOWS QR\WİNDOWS QR\obj\x64\Release\WİNDOWS QR.pdb
