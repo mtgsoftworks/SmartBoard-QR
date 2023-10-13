@@ -1,10 +1,11 @@
 # SmartBoard-QR
---Using--
+------------ Using ------------
 
 Download the App to Your Android Device from the Play Store and Extract the PC Application RAR File to the Program Files Folder, then make the necessary adjustments and start using
 
 Purpose of Use: Providing Windows Login with QR Code
 
+----------- General Info ---------
 
 Purpose: Windows operating system computer, tablet, smart board, etc.  Log in via phone by scanning the QR code on the device.
 
@@ -27,6 +28,7 @@ Method: The PC application is run as an administrator, the server address and pa
 
  Result: With a single QR code, you can access both Windows operating system devices (computer, tablet, smart board), etc.  Login is provided as well as file transfer, PC snapshot and control between both platforms.
 
+-------- Download Link --------
 
 Here is the Mobile Application Download Link:
 https://play.google.com/store/apps/details?id=com.mtgsoftworks.smartboardqr
